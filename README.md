@@ -23,14 +23,14 @@
 <div align="left">
 
   <br>
-  <a href="https://github.com/marciodiniz7x">
+  <a href="https://github.com/marciodinizdev">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciodiniz7x&layout=compact&langs_count=7&theme=dracula"/> <br>
-  [![Marcio's github stats](https://bad-apple-github-readme.vercel.app/api?username=marciodiniz7x&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=dracula&title_color=00b3ff)](#)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciodinizdev&layout=compact&langs_count=7&theme=dracula"/> <br>
+  [![Marcio's github stats](https://bad-apple-github-readme.vercel.app/api?username=marciodinizdev&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=dracula&title_color=00b3ff)](#)
 </div>
 
 <br>
 <div align="center">
-  <a href="https://instagram.com/marciodiniz7x" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/marciodinizdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5583993478941" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:marciodiniz.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
